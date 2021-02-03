@@ -1,2 +1,2 @@
 # Discord_bot
-Just a growing discord baby bot
+Just a wildly growing discord baby bot
